@@ -1,6 +1,10 @@
+* {
+  margin: auto;
+}
+
 body {
   background-image: url("station.jpg");
-  background-size: 500px 500px;
+  background-size: cover;
   background-repeat: no-repeat;
   font-family: sans-serif;
   font-weight: bold;
